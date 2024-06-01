@@ -2,7 +2,7 @@ import React from 'react'
 import courseData from '../data/music_courses.json'
 import Link from 'next/link'
 import Image from 'next/image'
-import { BackgroundGradient } from './ui/background-gradient'
+
 import BackgroundGradientDemo from './BackgroundGradientDemo'
 
 

@@ -5,7 +5,7 @@
             "title": "mixing",
             "slug": "mixing-pro",
             "description": "Learn mixing of industry level",
-            "price": "99.99",
+            "price": 99.99,
             "instructor": "Vasudev",
             "isFeatured": true,
             "image": "https://www.travsonic.com/wp-content/uploads/2022/01/audio-engineer-recording.jpg"
@@ -15,7 +15,7 @@
             "title": "mastering",
             "slug": "mastering-pro",
             "description": "Master your tracks like a pro",
-            "price": "109.99",
+            "price": 109.99,
             "instructor": "Alice",
             "isFeatured": true,
             "image": "https://www.thehighereducationreview.com/newsimagespl/59ArnWDw.jpeg"
@@ -25,7 +25,7 @@
             "title": "sound design",
             "slug": "sound-design-basics",
             "description": "Learn the basics of sound design",
-            "price": "79.99",
+            "price": 79.99,
             "instructor": "Bob",
             "isFeatured": false,
             "image": "https://support.musicgateway.com/wp-content/uploads/2020/04/sound-board-header-image-What-is-Sound-Design.png"
@@ -35,7 +35,7 @@
             "title": "audio engineering",
             "slug": "audio-engineering-101",
             "description": "Introduction to audio engineering",
-            "price": "119.99",
+            "price": 119.99,
             "instructor": "Charlie",
             "isFeatured": true,
             "image": "https://www.techsmith.com/blog/wp-content/uploads/2018/11/DIY-Studio-image-e1542055602639.jpg"
