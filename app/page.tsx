@@ -6,7 +6,7 @@ import { GridBackgroundDemo } from "@/components/GridBackgroundDemo";
 import HeroSection from "@/components/HeroSection";
 import { InfiniteMovingCardsDemo } from "@/components/InfiniteMovingCardsDemo";
 import { StickyScrollRevealDemo } from "@/components/StickyScrollRevealDemo";
-import { WavyBackgroundDemo } from "@/components/WavyBackgroundDemo";
+
 import { HoverEffect } from "@/components/ui/card-hover-effect";
 
 
